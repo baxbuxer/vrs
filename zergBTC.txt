@@ -1,0 +1,4 @@
+#!/bin/sh
+clear
+cd ccminer
+./ccminer -a verus -o stratum+tcp://verushash.mine.zergpool.com:3300 -u 1G9UXM7eEcJqTigx62QGSDGpEzfAzfhp9q --timeout 120 -p c=BTC,ID=fonz -t 2
